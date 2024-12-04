@@ -31,7 +31,6 @@ const TablaDatosAlumnos = ({ listaAlumnos, prepararEditar, eliminarAlumno}) => {
                 <td>{valor.email}</td>
                 <td>{valor.edad}</td>
                 <td>{valor.padron}</td>
-
                 <td className='observaciones'>{valor.observaciones}</td>
 
                 <td>
